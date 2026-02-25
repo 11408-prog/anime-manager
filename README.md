@@ -41,3 +41,6 @@
 ```bash
 git clone <你的仓库地址>
 cd anime_app
+
+### 2. 运行
+搭建好环境后运行main.py即可使用，也可以选择打包生成.exe应用
