@@ -1,0 +1,26 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 数据文件夹（包含图片和数据库，不上传）
+data/
+*.db
+
+# 虚拟环境
+venv/
+env/
+cute_anime/
+
+# 打包相关
+build/
+dist/
+*.spec
+*.exe
+*.pkg
+
+# 日志文件
+*.log
+
+# 系统文件
+Thumbs.db
+.DS_Store

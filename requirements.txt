@@ -1,0 +1,9 @@
+PyQt5>=5.15.0
+Pillow>=9.0.0
+imagehash>=4.2.1
+wordcloud>=1.8.1
+matplotlib>=3.4.0
+requests>=2.26.0
+beautifulsoup4>=4.10.0
+lxml>=4.6.3
+qtawesome>=1.2.0
